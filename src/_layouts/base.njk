@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    
+    <!--] header [-->
+    <header>
+      <img src="/assets/tkts-header.png" class="website-header">
+
+      <!--] navigation [-->
+      <nav>
+        <ul class="nav">
+          <li class="nav"><a href="/">Home</a></li>
+          <li class="nav"><a href="/bookshelf">Bookshelf</a></li>
+          <li class="nav"><a href="/recordshelf">Recordshelf</a></li>
+          <li class="nav"><a href="/mediashelf">Mediashelf</a></li>
+          <li class="nav"><a href="/about">About</a></li>
+        </ul>
+      </nav>
+      <!--] /navigation [-->
+    </header>
+    <!--] /header [-->
+
+    <!--]	main [-->
+    <main>
+
+      <!--]	hypertext content [-->
+      <div class="content">
+        {{ content }}
+      <!--]	/hypertext content [-->
+      </div>
+
+      <!--] /main [-->
+    </main>
+
+    <!--]	footer	[-->
+    <footer>
+      <div class="footer">
+        <p><strong>Public Service Announcement 2000</strong></p>
+        <p>Created on {% page.date.toDateString() %} - Last updated {% updated.toDateString() %}</p>
+        <p>Copyright © 2000 - <script>document.write( new Date().getFullYear() );</script> by fLaMEd. All rights reversed. Don't jack.</p>
+      </div>
+    </footer>
+    <!--]	/footer	[-->
+
+  </body>
+</html>

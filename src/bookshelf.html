@@ -1,0 +1,17 @@
+---
+layout: default
+title: Bookshelf
+emoji: 📚
+---
+
+        <h1>{{ emoji }} {{ title }}</h1>
+
+        <div class="container">
+            <div class="grid">
+            {%- for post in collections.books %}
+                <div class="cell">
+                    <a href="{{ post.url }}"><img src="{{ post.data.book.cover }}" alt="{{ post.data.title }} - {{ post.data.album.artist }}" class="responsive-image" /></a>
+                </div>
+            {%- endfor %}
+            </div>
+        </div>

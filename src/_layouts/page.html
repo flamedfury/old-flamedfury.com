@@ -1,0 +1,12 @@
+---
+layout: default
+templateClass: tmpl-page
+date: Last Modified
+---
+
+    <h1>{{ emoji }} {{ title }} - {{ album.artist }}</h1>
+    <p class="small">Page created on {{ createdOn | date: '%d/%m/%Y' }} and last modified on {{ page.date | date: '%d/%m/%Y' }}</p>
+
+            <img src="{{ album.cover }}" alt="{{ title }} - {{ album.artist }}" class="responsive-image img-center" /></a>
+
+            {{ content | safe }}
