@@ -4,7 +4,7 @@ title: House of X/Powers of X
 emoji: 🦸
 comic: 
   writer: Jonathan Hickman
-  cover: /bookshelf/comics/house-of-x-powers-of-x.jpg
+  cover: /bookshelf/comics/covers/house-of-x-powers-of-x.jpg
 tags: comics
 ---
 
