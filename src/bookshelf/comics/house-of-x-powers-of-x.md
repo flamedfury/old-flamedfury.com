@@ -2,7 +2,7 @@
 layout: default
 title: House of X/Powers of X 
 emoji: 🦸
-book: 
+comic: 
   writer: Jonathan Hickman
   cover: /bookshelf/comics/house-of-x-powers-of-x.jpg
 tags: comics
