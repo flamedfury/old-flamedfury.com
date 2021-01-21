@@ -6,7 +6,7 @@ emoji: 📚
 
         <h1>{{ emoji }} {{ title }}</h1>
 
-        <h2>Books</h2>
+        <h2>🕮 Books</h2>
 
         <div class="container">
             <div class="grid">
@@ -18,5 +18,15 @@ emoji: 📚
             </div>
         </div>
 
-        <h2>Comics</h2>
+        <h2>🦸Comics</h2>
         <p>I've been into comics from a young age. I inherited a small collection of mostly 80's X-Men comics from my uncles and have been a huge X-Men fan ever since. I've been reading comics again since 2015 on Marvel Unlimited and collecting all the new X-Men books since 2019.</p>
+
+        <div class="container">
+            <div class="grid">
+            {%- for post in collections.comics %}
+                <div class="cell">
+                    <a href="{{ post.url }}"><img src="{{ post.data.comic.cover }}" alt="{{ post.data.title }} - {{ post.data.comic.writer }}" class="responsive-image" /></a>
+                </div>
+            {%- endfor %}
+            </div>
+        </div>
