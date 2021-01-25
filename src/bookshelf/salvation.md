@@ -3,7 +3,7 @@ layout: default
 title: Salvation
 emoji: 📖
 author: Peter F. Hamilton
-cover: /assets/bookshelf/salvation.jpg
+cover: /assets/img/bookshelf/salvation.jpg
 tags: books
 ---
 

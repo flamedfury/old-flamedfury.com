@@ -2,7 +2,7 @@
 layout: default
 title: The Saints Of Salvation
 emoji: 📖
-cover: /assets/bookshelf/the-saints-of-salvation.jpg
+cover: /assets/img/bookshelf/the-saints-of-salvation.jpg
 tags: books
 date: 2021-01-13
 lastmodified: 2021-01-25
