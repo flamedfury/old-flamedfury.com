@@ -6,7 +6,7 @@ cover: /assets/img/comics/house-of-x-powers-of-x.jpg
 tags: comics
 ---
 
-## {{ emoji }} {{ title }} - {{ comic.writer }}
+## {{ emoji }} {{ title }}
 
 <img src="{{ cover }}" alt="{{ title }}" class="responsive-image img-center" width="50%">
 

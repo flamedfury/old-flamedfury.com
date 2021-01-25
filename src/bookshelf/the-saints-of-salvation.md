@@ -2,17 +2,15 @@
 layout: default
 title: The Saints Of Salvation
 emoji: 📖
-book: 
-  author: Peter F. Hamilton
-  cover: /bookshelf/covers/the-saints-of-salvation.jpg
+cover: /assets/bookshelf/the-saints-of-salvation.jpg
 tags: books
 date: 2021-01-13
 lastmodified: 2021-01-25
 ---
 
-<h1>{{ emoji }} {{ title }} - {{ book.author }}</h1>
+<h1>{{ emoji }} {{ title }} - {{ author }}</h1>
 
-<img src="{{ book.cover }}" alt="{{ title }} - {{ book.author }}" class="responsive-image img-center" width="50%">
+<img src="{{ cover }}" alt="{{ title }} - {{ author }}" class="responsive-image img-center" width="50%">
 
 > Humanity is struggling to hold out against a hostile takeover by an alien race that claims to be on a religious mission to bring all sentient life to its God at the End of Time. But while billions of cocooned humans fill the holds of the Olyix’s deadly arkships, humankind is playing an even longer game than the aliens may have anticipated. From an ultra-secret spy mission to one of the grandest battles ever seen, no strategy is off the table. Will a plan millennia in the making finally be enough to defeat this seemingly unstoppable enemy? And what secrets are the Olyix truly hiding in their most zealously protected stronghold?
 
