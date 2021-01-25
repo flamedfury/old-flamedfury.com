@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Salvation
-emoji: 📚
+emoji: 📖
 book: 
   author: Peter F. Hamilton
   cover: /bookshelf/covers/salvation.jpg

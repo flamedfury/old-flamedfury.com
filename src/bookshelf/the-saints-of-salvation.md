@@ -1,13 +1,13 @@
 ---
 layout: default
 title: The Saints Of Salvation
-emoji: 📚
+emoji: 📖
 book: 
   author: Peter F. Hamilton
   cover: /bookshelf/covers/the-saints-of-salvation.jpg
 tags: books
-date: 2020-09-25
-lastmodified: 2021-01-13
+date: 2021-01-13
+lastmodified: 2021-01-25
 ---
 
 <h1>{{ emoji }} {{ title }} - {{ book.author }}</h1>
@@ -27,4 +27,3 @@ What happened to the Varyn Neana? Did that get explained in Salvation Lost or di
 The weapon deployed against the human armada in the Olyix enclave was a bit of a mindfuck. I had to re-read a few parts to make sure that I was following along correctly. In the end it didn't seem to have much of a consequence to the main characters, except maybe the direction Yirella ended up taking?
 
 I loved that during the final stirke, the infantry squads made it to the Salvation of Life ark ship and made contact with the Saints. The time flow stuff really made me think that while reading whether or not that would actually happen. Was so happy when Delian got to meet them.
-

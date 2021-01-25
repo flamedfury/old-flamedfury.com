@@ -1,6 +1,6 @@
 module.exports = function(eleventyConfig) {
 
-    eleventyConfig.addPassthroughCopy("assets");
+    eleventyConfig.addPassthroughCopy("src/assets");
     eleventyConfig.addPassthroughCopy("src/recordshelf/covers/");
     eleventyConfig.addPassthroughCopy("src/bookshelf/covers/");
     eleventyConfig.addPassthroughCopy("src/bookshelf/comics/covers/");
