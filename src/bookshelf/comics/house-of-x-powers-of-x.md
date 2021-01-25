@@ -2,15 +2,13 @@
 layout: default
 title: House of X/Powers of X 
 emoji: 🦸
-comic: 
-  writer: Jonathan Hickman
-  cover: /bookshelf/comics/covers/house-of-x-powers-of-x.jpg
+cover: /assets/img/comics/house-of-x-powers-of-x.jpg
 tags: comics
 ---
 
 ## {{ emoji }} {{ title }} - {{ comic.writer }}
 
-<img src="{{ comic.cover }}" alt="{{ title }} - {{ comic.writer }}" class="responsive-image img-center" width="50%">
+<img src="{{ cover }}" alt="{{ title }}" class="responsive-image img-center" width="50%">
 
 House of X and Powers of X is 6 part series that completely resets the X-Men story.
 
