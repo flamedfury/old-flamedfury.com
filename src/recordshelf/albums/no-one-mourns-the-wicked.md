@@ -1,0 +1,24 @@
+---
+layout: page
+title: No One Mourns The Wicked
+emoji: 🎧
+artist: Big Ghost Ltd, Conway the Machine
+cover: /assets/img/music/no-one-mourns-the-wicked.jpg
+tags: music
+date: 2020-05-16
+lastmodified: 2021-01-28
+---
+
+No One Mourns The Wicked [dropped yesterday](https://bigghostlimited.bandcamp.com/album/no-one-mourns-the-wicked) (15/05/2020).
+
+This is the second time that [Conway](https://en.wikipedia.org/wiki/Conway_the_Machine) and [Big Ghost](https://bigghostlimited.bandcamp.com/) have linked up and dropped 🔥, the first being [Griselda Ghost](https://bigghostlimited.bandcamp.com/album/griselda-ghost) alongside [Westside Gunn](https://en.wikipedia.org/wiki/Westside_Gunn).
+
+Griselda Ghost was my first introduction to [Griselda](https://en.wikipedia.org/wiki/Griselda_Records) after being a long time follower of Big Ghosts’ [hilarious writings on the Internet](https://bigghostlimited.com/big-ghost-presents-the-take-care-review/). Big Ghost started out parodying [Ghostface Killah](https://en.wikipedia.org/wiki/Ghostface_Killah).
+
+Time flies.
+
+I managed to get up early this morning and secure myself a copy of the vinyl. These releases sell out super quick and the only one I have managed to get for myself previously was [The Plugs I Met](https://derapwinkelrecords.bandcamp.com/album/the-plugs-i-met) by the third Griselda crew member, [Benny the Butcher](https://en.wikipedia.org/wiki/Benny_The_Butcher).
+
+Anyway, this album is sweet. Short and sweet. Big Ghost brings the noise on the instrumentals and Conway is in his bag! I’ve managed a few listens and will continue over the weekend.
+
+_originally posted on my shortlived covid blog flamed.nz_

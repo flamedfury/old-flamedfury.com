@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Salvation Lost
-emoji: 📖
 author: Peter F. Hamilton
+emoji: 📖
 cover: /assets/img/bookshelf/salvation-lost.jpg
 tags: books
 ---

@@ -1,13 +1,15 @@
 ---
-layout: page.html
+layout: page
 title: Plastic Hearts
 emoji: 🎧
-album: # relative to /src/assets/img/
-  artist: Miley Cyrus
-  cover: /recordshelf/covers/plastic-hearts.jpg
+artist: Miley Cyrus
+cover: /assets/img/music/plastic-hearts.jpg
 tags: music
+date: 2020-11-27
+lastmodified: 2021-01-28
 ---
 
+**Under Construction** the below is filler text - need to find my notes after the first week listening.
 
 Plastic Hearts is the seventh studio album by American singer Miley Cyrus, released on November 27, 2020 via RCA Records. Plans to release three extended plays leading up to the release of the album were scrapped.
 

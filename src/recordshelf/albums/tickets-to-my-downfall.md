@@ -2,11 +2,11 @@
 layout: page.html
 title: Tickets to my Downfall
 emoji: 🎧
-album: # relative to /src/assets/img/
-  artist: Machine Gun Kelly
-  cover: /recordshelf/covers/tickets-to-my-downfall.jpg
+artist: Machine Gun Kelly
+cover: /assets/img/music/tickets-to-my-downfall.jpg
 tags: music
-createdOn: 2020-09-25
+date: 2020-09-25
+lastmodified: 2020-10-02
 ---
 
 Never paid much attention to MGK, was aware of him and had a laugh when Eminem clapped back at him years later after something he said years ago.

@@ -2,10 +2,11 @@
 layout: page
 title: Save Mode II
 emoji: 🎧
-album: # relative to /src/assets/img/
-  artist: 21 Savage, Metro Boomin
-  cover: /recordshelf/covers/savage-mode-2.jpg
+artist: 21 Savage, Metro Boomin
+cover: /assets/img/music/savage-mode-2.jpg
 tags: music
+date: 2020-10-02
+lastmodified: 2020-10-16
 ---
 
 Funny how I was thinking this week where 21 Savage has been lately. I was pleased to see a note on Genius that they had announced on the 29/09/20 that they are dropping Save Mode 2 on 02/10/2020!
