@@ -44,7 +44,13 @@ Must be the first release filmed in a studio without the audiance. Has to be the
 
 Standout tracks: Nga Kano/In Colour performed by Grey Bright made famous by Shapeshifter.
 
-### Body Combat
+### SPRINT
+
+#### SPRINT #20
+
+Great workout. Audience surrounding Glen & Dee is distracting.
+
+### BODYCOMBAT
 
 Discovered down the lockdown of 2020, was my cardio fix for a number of months until I got a bike for my home gym.
 
