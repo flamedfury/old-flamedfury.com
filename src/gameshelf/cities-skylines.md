@@ -18,6 +18,7 @@ lastmodified: 2021-02-15
 
 ## Useful Links
 [Skylines Country](https://skylines.country/) - Cities Skylines maps detailing map views, resources, milestone requirements, climate details, atmosphere probabilities.
+[Skylines Planning Guide](http://www.skylinesplanningguide.com/)
 
 ## Starting City Videos
 - [Advanced Guide on How to Start Your City in Cities: Skylines](https://www.youtube.com/watch?v=FvwP1t66LWw)
