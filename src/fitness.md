@@ -44,6 +44,16 @@ Must be the first release filmed in a studio without the audiance. Has to be the
 
 Standout tracks: Nga Kano/In Colour performed by Grey Bright made famous by Shapeshifter.
 
+#### RPM 81
+
+- **Track 1** Can't help but sing along.
+- **Track 2** No complaints.
+- **Track 3** Did not feel like a Hill track at all.
+- **Track 4** Not sure if it was the cover version but this mixed terrain track felt confused.
+- **Track 5** Could have used extra attack phases.
+- **Track 6** Good speed track with lots of recovery.
+- **Track 7** Holly lol, what an obnoxious song, in a good way. Workout was a good challenge and peaked the heart rate nicely to wrap up with.
+
 ### SPRINT
 
 #### SPRINT #20
