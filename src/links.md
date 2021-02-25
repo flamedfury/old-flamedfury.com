@@ -15,6 +15,14 @@ Site | Description
 
 ![tkts-divider](https://flamedfury.com/assets/img/tkts-divider.png)
 
+## Take back the web
+
+Site | Description
+----- | -----
+[Make your own independent website](https://victoria.dev/blog/make-your-own-independent-website/) | [Archive](https://web.archive.org/web/20210207190640/https://victoria.dev/blog/make-your-own-independent-website/) | Victoria Drake discusses the value of creating and owning your own website.
+
+![tkts-divider](https://flamedfury.com/assets/img/tkts-divider.png)
+
 ## Interesting articles
 
 Site | Description
