@@ -19,7 +19,7 @@ Site | Description
 
 Site | Description
 ----- | -----
-[Make your own independent website](https://victoria.dev/blog/make-your-own-independent-website/) [archive](https://web.archive.org/web/20210207190640/https://victoria.dev/blog/make-your-own-independent-website/) | Victoria Drake discusses the value of creating and owning your own website.
+[Make your own independent website](https://victoria.dev/blog/make-your-own-independent-website/) [(!a)](https://web.archive.org/web/20210207190640/https://victoria.dev/blog/make-your-own-independent-website/) | Victoria Drake discusses the value of creating and owning your own website.
 
 ![tkts-divider](https://flamedfury.com/assets/img/tkts-divider.png)
 
@@ -28,3 +28,4 @@ Site | Description
 Site | Description
 ------ | ------
 [Pop Punk & Linguistics](https://www.atlasobscura.com/articles/i-made-a-linguistics-professor-listen-to-a-blink-182-song-and-analyze-the-accent) | A linguistics professors analysis of the american pop punk accent. Great read.
+[The Rise & Fall of Internet Art Communities](https://www.artsy.net/article/artsy-editorial-rise-fall-internet-art-communities) [(!a)](https://web.archive.org/web/20201101002236/https://www.artsy.net/article/artsy-editorial-rise-fall-internet-art-communities) | A deep dive into the rise and fall of art communities of the early web.
