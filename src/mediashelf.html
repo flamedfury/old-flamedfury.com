@@ -10,11 +10,11 @@ emoji: 📺
 
         <div class="container">
             <div class="grid">
-            {%- for post in collections.movies %}
+            {% for post in collections.movies %}
                 <div class="cell">
                     <a href="{{ post.url }}"><img src="{{ post.data.cover }}" alt="{{ post.data.title }}" class="responsive-image" /></a>
                 </div>
-            {%- endfor %}
+            {% endfor %}
             </div>
         </div>
 
@@ -22,10 +22,10 @@ emoji: 📺
 
         <div class="container">
             <div class="grid">
-            {%- for post in collections.tv %}
+            {% for post in collections.tv %}
                 <div class="cell">
                     <a href="{{ post.url }}"><img src="{{ post.data.cover }}" alt="{{ post.data.title }}" class="responsive-image" /></a>
                 </div>
-            {%- endfor %}
+            {% endfor %}
             </div>
         </div>

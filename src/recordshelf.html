@@ -18,16 +18,18 @@ emoji: 🎧
 
         <img src="../assets/img/tkts-divider.png">
 
+        <h2>Recently Played Tracks</h2>
+
         {% include recently-played.html %}
 
         <img src="../assets/img/tkts-divider.png">
 
         <div class="container">
             <div class="grid">
-            {%- for post in collections.music %}
+            {% for post in collections.music %}
                 <div class="cell">
                     <a href="{{ post.url }}"><img src="{{ post.data.cover }}" alt="{{ post.data.title }} - {{ post.data.artist }}"></a>
                 </div>
-            {%- endfor %}
+            {% endfor %}
             </div>
         </div>
